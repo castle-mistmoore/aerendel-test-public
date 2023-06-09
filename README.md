@@ -7,3 +7,5 @@ mistmoore06
 mistmoore07
 freeport01
 freeport02
+kaladim01
+kaladim02
