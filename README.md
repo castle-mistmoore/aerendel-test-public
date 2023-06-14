@@ -9,3 +9,5 @@ freeport01
 freeport02
 kaladim01
 kaladim02
+queynos05
+queynos06
