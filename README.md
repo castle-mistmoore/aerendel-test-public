@@ -11,3 +11,5 @@ kaladim01
 kaladim02
 queynos05
 queynos06
+AS_PASSWORD=dhey8273!
+MYSQL_PW=yudj-938x-jd!x
