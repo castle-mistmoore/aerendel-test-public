@@ -11,5 +11,6 @@ kaladim01
 kaladim02
 queynos05
 queynos06
-AS_PASSWORD=dhey8273!
-MYSQL_PW=yudj-938x-jd!x
+
+CLOJARS_770584d592da432850a9f48df2afba5dde4410ac13624acef38e9ba01b01
+CLOJARS_770584d592da432850a9f48df2afba5dde4410ac13624acef38e9ba01b02
